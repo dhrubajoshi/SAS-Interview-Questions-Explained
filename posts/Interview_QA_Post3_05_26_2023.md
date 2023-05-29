@@ -180,9 +180,9 @@ RUN;
 ```
 
 
-## 10: Last 5 character of product id represents the certain batch id. You are asking o generate distribution of batch id. How do you solve the problem?
+## 10: Last 5 character of product id represents the certain batch id. You are asking to generate distribution of batch id. How do you solve the problem?
 
-We can us following two nested function method can be used to get last 5 digit from product ID and data distribution can be obtained using proc freq.
+We can use following two nested function method can be used to get last 5 digit from product ID and data distribution can be obtained using proc freq.
 
 ```
 DATA PRODUCT_ID;
@@ -211,8 +211,4 @@ RUN;
 
 
 
-[<img align="center" src="../static/images/left.svg" height="20" width="20"/> Part 2](./Interview_QA_Post2_05_24_2023.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Part 4 <img align="center" src="../static/images/right.svg" height="20" width="20"/>](./Interview_QA_Post4_05_26_2023.md)
-
-
-
-
+[<img align="center" src="../static/images/arrow_left.svg" height="20" width="20"/> Part 2](./Interview_QA_Post2_05_24_2023.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Part 4 <img align="center" src="../static/images/arrow_right.svg" height="20" width="20"/>](./Interview_QA_Post4_05_26_2023.md)

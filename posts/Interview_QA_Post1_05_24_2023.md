@@ -151,7 +151,7 @@ To remove unnecessary variables, we can use keep/drop option as well as keep/dro
 2. In SAS set statement, it writes each and every record one after other.
 3. Instead of the rewriting both data sets proc append just writes the data set identified by data= after the observations in the data set identified by BASE=. So it takes less time as compare to data set statement.
 
-[<img align="center" src="../static/images/left.svg" height="20" width="20"/> Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Part 2 <img align="center" src="../static/images/right.svg" height="20" width="20"/>](./Interview_QA_Post2_05_24_2023.md)
+[<img align="center" src="../static/images/arrow_left.svg" height="20" width="20"/> Home](../README.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Part 2 <img align="center" src="../static/images/arrow_right.svg" height="20" width="20"/>](./Interview_QA_Post2_05_24_2023.md)
 
 
 

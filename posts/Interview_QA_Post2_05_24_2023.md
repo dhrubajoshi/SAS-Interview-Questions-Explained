@@ -162,7 +162,7 @@ The difference between the two procedures is that PROC MEANS produces a report b
 2. The mean function results the average value of several variables in one observation but proc means results five default statics for each numeric variable.
 
 
-[<img align="center" src="../static/images/left.svg" height="20" width="20"/> Part 1](./Interview_QA_Post1_05_24_2023.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Part 3 <img align="center" src="../static/images/right.svg" height="20" width="20"/>](./Interview_QA_Post3_05_26_2023.md)
+[<img align="center" src="../static/images/arrow_left.svg" height="20" width="20"/> Part 1](./Interview_QA_Post1_05_24_2023.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Part 3 <img align="center" src="../static/images/arrow_right.svg" height="20" width="20"/>](./Interview_QA_Post3_05_26_2023.md)
 
 
 

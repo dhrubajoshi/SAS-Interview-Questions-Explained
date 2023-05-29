@@ -1,22 +1,21 @@
-# SAS Interview Questions and Answers Part 4
+# SAS Interview Questions and Answers Part 5
 
 This is a collection of SAS interview question answers. Most of the questions are commonly asked in the SAS Developer/Programmer position interview. Every post has covered 10 related questions and answers.
 
-Data step Merge and Proc step Joins(Part-1):
+Data step Merge and Proc step Joins:
 ## 01: What are the differences between Join and Merge? Which one is more efficient and why?
 1. Both methods are used to combine the two or more than two data sets. Join doesn’t need to sort the data but merge need to sort the data by index or by variable. 
 2. Multiple data sets can be joined in one step without having common variables in all the data sets.
 3. Proc SQL join can handle many to many relationships whereas Data step merge do not.
 
-
 ## 02: What are the difference types of joins?
 There are five different types of joins:
 
-1. **Self join**: Given table is joined with same table -Example: When using employee table, self join is used to idrntify Manager's name.
-2. **Inner Join**: This jine is used to identify (Extract) all rows which are common to the both table.
-3. **Left join**: Left join is used to Select all the records from left table and records from second table which has common rows with first table.
-4. **Right Join**: Right join is used to Select all the records from right table and records from second table which has common rows with first table.
-5. **Full outer join**: Full outer join is used to get all records from both table.
+1. Self join: Given table is joined with same table -Example: When using employee table, self join is used to idrntify Manager's name.
+2. Inner Join: This jine is used to identify (Extract) all rows which are common to the both table.
+3. Left join: Left join is used to Select all the records from left table and records from second table which has common rows with first table.
+4. Right Join: Right join is used to Select all the records from right table and records from second table which has common rows with first table.
+5. Full outer join: Full outer join is used to get all records from both table.
 
 
 ## 03: Demographic info and account info are saved in different table. How do you pull name of all customers whose id exist in the account table.
@@ -289,10 +288,10 @@ Output result:
 Following conditional option is used to get all records from Table1 and Table2.
 
 ```
-Data Data_Product;
-input Product_id $ Name $ 20.;
-datalines;
-0123 Grape
+DATA DATA_PRODUCT;
+INPUT PRODUCT_ID $ NAME $ 20.;
+DATALINES;
+0123 GRAPE
 2222 ORANGE
 0023 BANANA
 0111 PAPAYA
@@ -302,9 +301,9 @@ datalines;
 ;
 RUN;
 
-Data Data_Sales;
-input product_id $ State $ Amount dollars5.2;
-datalines;
+DATA DATA_SALES;
+INPUT PRODUCT_ID $ STATE $ AMOUNT DOLLARS5.2;
+DATALINES;
 0123 VA 67876
 2291 MD 66622
 0023 AZ 90877
@@ -348,4 +347,5 @@ Product_id	Name	State	Amount
 
 
 
-[<img align="center" src="../static/images/arrow_left.svg" height="20" width="20"/> Part 3](./Interview_QA_Post3_05_26_2023.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Part 5 <img align="center" src="../static/images/arrow_right.svg" height="20" width="20"/>](./Interview_QA_Post5_05_27_2023.md)
+
+[<img align="center" src="../static/images/left.svg" height="20" width="20"/> Part 2](./Interview_QA_Post2_05_24_2023.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Part 4 <img align="center" src="../static/images/right.svg" height="20" width="20"/>](./Interview_QA_Post4_05_26_2023.md)
