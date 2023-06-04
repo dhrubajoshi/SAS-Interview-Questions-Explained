@@ -8,3 +8,5 @@ This is a collection of interview questions and answers with example and code th
 - [SAS Q/A Part:4](./posts/Interview_QA_Post4_05_26_2023.md)
 - [SAS Q/A Part:5](./posts/Interview_QA_Post5_05_27_2023.md)
 - [SAS Q/A Part:6](./posts/Interview_QA_Post6_05_27_2023.md)
+- [SAS Q/A Part:7](./posts/Interview_QA_Post7_06_03_2023.md)
+- [SAS Q/A Part:8](./posts/Interview_QA_Post8_06_03_2023.md)
