@@ -20,8 +20,18 @@ String literals are created by enclosing single, double or tripple quotes.
 4. S_Literal_4='''Milancity'''
 
 ## 03: What do you mean by Numeric Literal?
+Numerical literal in python is a numerical value that can be directly used in the code.
+Numerical literals are three types:
+
+- Integer (Whole number )
+- Floating point number (Decimal number)
+- complex number (Has both part real value and imaginary)
+
+
 ## 04: What do you mean by Boolen literal?
+True and False are bollen literal.
 ## 05: What do you by Special literal.
+None is special literal.
 ## 06: What are the different data types in PYTHON?
 Following are the common built in data types:
 1. Mutable data types( Which can be change or update)
