@@ -3,7 +3,7 @@
 This is a collection of SAS interview question Answer. Most of questions are commonly asked in the SAS Developer/Programmer position interview. Every post has covered 10 related questions and answewrs.
 
 
-## 01: How to copy data in sas?
+## 01: How do you copy data in sas?
 
 A set statement is used to copy sas dataset. Refer to the following code to copy the SAS data
 
