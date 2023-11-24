@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # SAS Interview Questions and Answers Part 3
 
 I made a change in the code. 
@@ -30,6 +31,37 @@ INT, ABS, SQRT, MIN, MAX, SUM, MEAN, ROUND, LAG, LOG, CILL, FLOOR
 
 
 ## 03: What are the SAS Date functions?
+=======
+# SAS Interview Questions and Answers Part 3
+
+I made a change in the code. 
+
+
+This is a collection of SAS interview question answers. Most of the questions are commonly asked in the SAS Developer/Programmer position interview. Every post has covered 10 related questions and answers.
+
+Let me change some code
+## 01: What are the SAS character functions that you have used for data cleaning?
+Frequently used character functions are: 
+a. Compress
+b. Find
+c. Substr
+d. Scan
+e. Subrstr
+f. Trim
+g. Upcase
+h. Lowcase
+i. Strip
+j. Input
+k. Catx
+
+
+## 02: What are the SAS numeric functions that you have used for data cleaning?
+Frequently used numeric functions are:
+INT, ABS, SQRT, MIN, MAX, SUM, MEAN, ROUND, LAG, LOG, CILL, FLOOR
+
+
+## 03: What are the SAS Date functions?
+>>>>>>> Stashed changes
 Some SAS DDATE functions are:
 ##### a. 	DATE () => converts todays date into days from JAN01 1960. Oct24,2021-> 22577 With format date9.-> OCT24, 2021
 ##### b. DATETIME () Converts today’s this instant into second calculating from JAN01 1960.
